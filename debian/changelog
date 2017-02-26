@@ -443,7 +443,7 @@ dpkg-repack (0.19) unstable; urgency=low
 dpkg-repack (0.18) unstable; urgency=low
 
   * Removed some debugging output I accidentally put in the last version.
-  * Workes now for packages that have filenames with spaces in them (like
+  * Works now for packages that have filenames with spaces in them (like
     maelstrom).
   * Changed the description to remove the "attempts to". It should always
     work. (heh)
