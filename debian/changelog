@@ -220,7 +220,7 @@ dpkg-repack (1.24) unstable; urgency=low
 dpkg-repack (1.23) unstable; urgency=low
 
   * Man page typo. Closes: #362044
-  * Patch from Tomas Pospisek to use cp -a whe copying a named pipe,
+  * Patch from Tomas Pospisek to use cp -a when copying a named pipe,
     as cp -pd will read from the pipe. Closes: #287319
 
  -- Joey Hess <joeyh@debian.org>  Mon, 15 May 2006 17:15:11 -0500
