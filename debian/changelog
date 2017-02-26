@@ -262,7 +262,7 @@ dpkg-repack (1.18) unstable; urgency=low
 
 dpkg-repack (1.17) unstable; urgency=low
 
-  * Swtich from build-depend-indep to build-depends.
+  * Switch from build-depend-indep to build-depends.
 
  -- Joey Hess <joeyh@debian.org>  Mon,  8 Sep 2003 20:45:07 -0400
 
