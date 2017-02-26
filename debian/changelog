@@ -445,7 +445,7 @@ dpkg-repack (0.18) unstable; urgency=low
   * Removed some debugging output I accidentally put in the last version.
   * Workes now for packages that have filenames with spaces in them (like
     maelstrom).
-  * Checged the descripton to remove the "attempts to". It should always
+  * Changed the descripton to remove the "attempts to". It should always
     work. (heh)
 
  -- Joey Hess <joeyh@debian.org>  Thu, 28 May 1998 06:14:27 -0400
