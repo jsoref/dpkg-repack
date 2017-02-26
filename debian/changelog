@@ -460,7 +460,7 @@ dpkg-repack (0.17) unstable; urgency=low
     .
     If the package contains a file, that locally looks like a symlink
     pointing to a directory that is not in the package, then change it to a
-    real directory in the repacked package. This assummes that in this case,
+    real directory in the repacked package. This assumes that in this case,
     the symlink was a local change (eg, /usr is a symlink).
     .
     However, if the directory in question contains no files in the filelist
