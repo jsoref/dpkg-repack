@@ -283,7 +283,7 @@ dpkg-repack (1.15) unstable; urgency=low
 dpkg-repack (1.14) unstable; urgency=low
 
   * fakeroot's new -u flag should be used if using dpkg-repack with fakeroot.
-    Otherwise permisions of non-root-owned files can be messed up. Warn about
+    Otherwise permissions of non-root-owned files can be messed up. Warn about
     this if -u is not used.
   * Other minor changes.
 
