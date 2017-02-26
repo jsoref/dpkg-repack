@@ -454,7 +454,7 @@ dpkg-repack (0.17) unstable; urgency=low
 
   * Uses dpkg for querying the status file and getting the file list, rather
     than doing it by hand. However, dpkg-repack still accesses the dpkg
-    database directly, becuase it copies maintainer scripts, etc, from
+    database directly, because it copies maintainer scripts, etc, from
     there. There is no way to get that information via dpkg.
   * Fixed  bug #22603 - a failure when eg. /usr is a symlink.
     .
